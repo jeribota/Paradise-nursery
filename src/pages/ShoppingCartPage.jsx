@@ -20,7 +20,7 @@ const ShoppingCartPage = () => {
                     <button 
                     className="checkout-button"
                     onClick={(e)=>{
-                        e.target.innerText = 'Coming soon';
+                        e.target.innerText = 'Coming soon!';
                     }}
                     >Checkout</button>
                     
